@@ -1,0 +1,16 @@
+.App {
+  text-align:left;
+}
+.required {
+  color: red;
+}
+.btn1{
+  color:white;
+  background-color:rgb(51, 168, 214);
+  margin:7px;
+  
+}
+.DomainName{
+  size:50px;
+}
+ 
